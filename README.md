@@ -13,8 +13,9 @@ The sub-project DR53 has a Team-Horizontal structure with 2 levels and reports t
 ## Premises
 
 * Each team at all levels must have at least two members.
-* Each member must be able to run the tasks within the demo.
-* Everyone must have access to issues, this README document, and code related to the sub-project, including @MarcoGabiccini, and pull access to all sub-modules
+* Each member must be able to run the tasks of the team the member belongs to within the demo.
+* At least two members per team are advised for redudnacy.
+* Everyone must have access to issues, this README document, code related to the sub-project, and pull access to all sub-modules
 * Not everyone has push-access to sub-modules related to the work of each team
 
 ## Organization
