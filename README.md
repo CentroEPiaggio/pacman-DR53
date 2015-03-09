@@ -8,7 +8,7 @@ This sub-project implements the deliverable DR 5.3 of the PaCMan Project, and th
 
 This sub-project is powered by open-source software, and UNIPI partner decided to release it as well as open-source. It is part of the list of demos in WP5 within the project. The full list can be found [here]( https://github.com/pacman-project/pacman) (access restricted to PaCMan members).
 
-The sub-project DR53 has a Team-Horizontal structure with 2 levels and reports to Marco Gabiccini (CN [@MarcoGabiccini](https://github.com/MarcoGabiccini)). Next we describe the premises, orgaznization, development plan, and information on suppliers.
+The sub-project DR53 has a Team-Horizontal structure with 2 levels and reports to Marco Gabiccini (CN [@MarcoGabiccini](https://github.com/MarcoGabiccini)) and [Antonio Bicchi](mailto:bicchi@centropiaggio.unipi.it). Next the premises, orgaznization, development plan, technical details and information on suppliers are described.
 
 ## Premises
 
