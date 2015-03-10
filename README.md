@@ -36,7 +36,7 @@ The sub-project DR53 has a Team-Horizontal structure with 2 levels and reports t
 
 3. __Visual perception__
   * Federico Spinelli (CN [@Tabjones](https://github.com/Tabjones))
-  * Carlos Rosales (CN [@carlosjoserg](https://github.com/carlosjoserg))
+  * Emanuele Luberto (CN [@emalbt](https://github.com/emalbt))
 
 4. __Pisa/IIT SoftHand perception__
   * Gaspare Santaera (CN [@GaspareSantaera](https://github.com/GaspareSantaera))
@@ -61,6 +61,7 @@ The sub-project DR53 has a Team-Horizontal structure with 2 levels and reports t
   
 9. __Infrastructure and Technical Support__
   * Federico Spinelli (CN [@Tabjones](https://github.com/Tabjones))
+  * Carlos Rosales (CN [@carlosjoserg](https://github.com/carlosjoserg))
 
 ## Development
 
