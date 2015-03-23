@@ -87,7 +87,8 @@ Check dependencies and installation instructions on each submodule.
 
 Most of the hardware has an associated software package with instructions on how to setup the device to work with the module. Here we describe how to set the environment.
 
-(ToDo)
+The following scheme shows the connectivity, IP addresses, and all required information to run the demo (if you don't have access to edit, issue it)
+<img src="https://docs.google.com/drawings/d/1kyQeu9JCw8l99c03lb9CYwT3qcxgAatOyYYRmBtoACc/pub?w=960&amp;h=720">
 
 ## Suppliers
 
