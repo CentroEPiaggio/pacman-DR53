@@ -96,3 +96,6 @@ The following scheme shows the connectivity, IP addresses, and all required info
   * [Manuel Catalano](mailto:manuel.catalano@centropiaggio.unipi.it)
   * [QBrobotics](http://www.qbrobotics.com/)
 
+2. __KIT mounting__ (desired, but not required for the demo)
+  * [Salvatore Ballestrino](mailto:s.balestrino@centropiaggio.unipi.it)
+
