@@ -79,7 +79,7 @@ Most of the interface between modules is done via launch files, xacros, params, 
 
 Clone this repository recursively with the following command:
 
-`git clone --recursively https://github.com/CentroEPiaggio/pacman-DR53.git` 
+`git clone --recursive https://github.com/CentroEPiaggio/pacman-DR53.git` 
 
 Check dependencies and installation instructions on each submodule.
 
