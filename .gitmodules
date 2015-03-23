@@ -4,3 +4,6 @@
 [submodule "dualmanipulation"]
 	path = dualmanipulation
 	url = https://bitbucket.org/dualmanipulation/dualmanipulation.git
+[submodule "calibration"]
+	path = calibration
+	url = https://github.com/CentroEPiaggio/calibration.git
