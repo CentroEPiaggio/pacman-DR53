@@ -79,7 +79,7 @@ Most of the interface between modules is done via launch files, xacros, params, 
 
 Clone this repository recursively with the following command:
 
-`git clone --recursively https://github.com/CentroEPiaggio/pacman-DR53.git` 
+`git clone --recursive https://github.com/CentroEPiaggio/pacman-DR53.git` 
 
 Check dependencies and installation instructions on each submodule.
 
@@ -87,11 +87,15 @@ Check dependencies and installation instructions on each submodule.
 
 Most of the hardware has an associated software package with instructions on how to setup the device to work with the module. Here we describe how to set the environment.
 
-(ToDo)
+The following scheme shows the connectivity, IP addresses, and all required information to run the demo (if you don't have access to edit, issue it)
+<img src="https://docs.google.com/drawings/d/1kyQeu9JCw8l99c03lb9CYwT3qcxgAatOyYYRmBtoACc/pub?w=960&amp;h=720">
 
 ## Suppliers
 
 1. __Pisa/IIT SoftHand__ 
   * [Manuel Catalano](mailto:manuel.catalano@centropiaggio.unipi.it)
   * [QBrobotics](http://www.qbrobotics.com/)
+
+2. __KIT mounting__ (desired, but not required for the demo)
+  * [Salvatore Ballestrino](mailto:s.balestrino@centropiaggio.unipi.it)
 
