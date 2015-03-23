@@ -1,0 +1,6 @@
+[submodule "vito-robot"]
+	path = vito-robot
+	url = https://github.com/CentroEPiaggio/vito-robot.git
+[submodule "dualmanipulation"]
+	path = dualmanipulation
+	url = https://bitbucket.org/dualmanipulation/dualmanipulation.git

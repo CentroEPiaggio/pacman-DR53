@@ -75,6 +75,14 @@ All modules should use any kind of CI support. We suggest [Travis CI](https://tr
 
 Most of the interface between modules is done via launch files, xacros, params, topics, services, and actions. XML-related (launch, xacros) files are advised to follow the interface/implementation paradigm, that is, use `arg`s to define the interface and do what it takes within to implement the functionality, see [here]() and [here](), for an example of a launch and a xacro file definition, respectively. Node-related stuff (params, topics, services, and actions) are advised to follow the namespacing capability in ROS, that is, if `right_hand` and `left_hand` are two devices of the same kind, with the associated topic `/joint_states` published by two IMU-gloves and by a Gazebo simulation, make your node able to publish on topics `/right_hand/imu_glove/joint_states`, `/right_hand/imu_glove/joint_states`, `/left_hand/imu_glove/joint_states` and `/left_hand/imu_glove/joint_states`.
 
+#### Getting the software
+
+Clone this repository recursively with the following command:
+
+`git clone --recursively https://github.com/CentroEPiaggio/pacman-DR53.git` 
+
+Check dependencies and installation instructions on each submodule.
+
 ### Hardware
 
 Most of the hardware has an associated software package with instructions on how to setup the device to work with the module. Here we describe how to set the environment.
