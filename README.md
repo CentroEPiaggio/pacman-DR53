@@ -81,19 +81,19 @@ Clone this repository recursively with the following command:
 
 `git clone --recursive https://github.com/CentroEPiaggio/pacman-DR53.git` 
 
-Checkout `master` branch for submodules:
-
-`cd pacman-DR53 && git submodule foreach git checkout master`
-
-For the Vito robot, checkout the development branch for multi-robot configurations:
-
-`cd vito-robot && git submodule foreach git checkout multi-robot-test`
-
-Finally to compile:
+Compile it:
 
 `roscd && cd .. && catkin_make`
 
 Check dependencies and installation instructions on each submodule.
+
+To continue developing follow:
+
+1. Checkout `master` branch for submodules:
+`cd pacman-DR53 && git submodule foreach git checkout master`
+
+2. For the Vito robot, checkout the development branch for multi-robot configurations:
+`cd vito-robot && git submodule foreach git checkout multi-robot-test`
 
 ### Hardware
 
