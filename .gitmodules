@@ -19,3 +19,6 @@
 [submodule "perception/pel"]
 	path = perception/pel
 	url = https://Tabjones@bitbucket.org/Tabjones/pel.git
+[submodule "perception/object_tracker"]
+	path = perception/object_tracker
+	url = https://Tabjones@bitbucket.org/Tabjones/object_tracker.git
