@@ -7,9 +7,6 @@
 [submodule "calibration"]
 	path = calibration
 	url = https://github.com/CentroEPiaggio/calibration.git
-[submodule "unipi-grasp-datasets"]
-	path = unipi-grasp-datasets
-	url = https://github.com/CentroEPiaggio/unipi-grasp-datasets.git
 [submodule "perception/pose_estimation_online"]
 	path = perception/pose_estimation_online
 	url = https://github.com/CentroEPiaggio/pose_estimation_online.git
