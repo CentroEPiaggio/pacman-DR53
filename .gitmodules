@@ -7,15 +7,3 @@
 [submodule "calibration"]
 	path = calibration
 	url = https://github.com/CentroEPiaggio/calibration.git
-[submodule "perception/pose_estimation_online"]
-	path = perception/pose_estimation_online
-	url = https://github.com/CentroEPiaggio/pose_estimation_online.git
-[submodule "perception/scene_filter"]
-	path = perception/scene_filter
-	url = https://Tabjones@bitbucket.org/Tabjones/scene_filter.git
-[submodule "perception/pel"]
-	path = perception/pel
-	url = https://Tabjones@bitbucket.org/Tabjones/pel.git
-[submodule "perception/object_tracker"]
-	path = perception/object_tracker
-	url = https://Tabjones@bitbucket.org/Tabjones/object_tracker.git
