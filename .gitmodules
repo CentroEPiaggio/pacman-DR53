@@ -7,3 +7,6 @@
 [submodule "calibration"]
 	path = calibration
 	url = https://github.com/CentroEPiaggio/calibration.git
+[submodule "pacman_vision"]
+	path = pacman_vision
+	url = git@bitbucket.org:Tabjones/pacman_vision.git
