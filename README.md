@@ -2,6 +2,8 @@
 
 __(AKA 2nd Year Demo, Object Passing Demo)__
 
+[![Stories in In Progress](https://badge.waffle.io/centroepiaggio/pacman-dr53.svg?label=in%20progress&title=In Progress)](http://waffle.io/centroepiaggio/pacman-dr53)
+
 This sub-project implements the deliverable DR 5.3 of the PaCMan Project, and this document is its __declaration of intent__.
 
 ## Overview
