@@ -10,3 +10,6 @@
 [submodule "pacman_vision"]
 	path = pacman_vision
 	url = git@bitbucket.org:Tabjones/pacman_vision.git
+[submodule "pacman-object-database"]
+	path = pacman-object-database
+	url = https://github.com/pacman-project/pacman-object-database.git
